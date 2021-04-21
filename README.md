@@ -8,7 +8,7 @@ Tags : greday, brute force
 ## [Journey](https://github.com/hyunmindev/PS_Journey)
 Source: [Codeforces](https://codeforces.com/problemset/problem/839/C)
 
-Tags : greday, brute force
+Tags : BFS
 
 ## [Algorithm Final Exam](https://github.com/hyunmindev/PS_Algorithm-Final-Exam)
 Source: [BOJ](https://www.acmicpc.net/problem/10424)
