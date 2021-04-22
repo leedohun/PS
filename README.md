@@ -1,5 +1,10 @@
 # PS
 
+## [Approximating A Constant Range](https://github.com/hyunmindev/PS_Anton-And-Digits)
+Source : [Codeforces](https://codeforces.com/problemset/problem/602/B)
+
+Tags : two pointers
+
 ## [Anton And Digits](https://github.com/hyunmindev/PS_Anton-And-Digits)
 Source : [Codeforces](https://codeforces.com/problemset/problem/734/B)
 
