@@ -1,9 +1,14 @@
 # PS
 
+## [Choosing Capital For Treeland](https://github.com/hyunmindev/PS_Choosing-Capital-For-Treeland)
+Source : [Codeforces](https://codeforces.com/problemset/problem/219/d)
+
+Tags : DFS, graph
+
 ## [Approximating A Constant Range](https://github.com/hyunmindev/PS_Anton-And-Digits)
 Source : [Codeforces](https://codeforces.com/problemset/problem/602/B)
 
-Tags : two pointers
+Tags : two pointer
 
 ## [Anton And Digits](https://github.com/hyunmindev/PS_Anton-And-Digits)
 Source : [Codeforces](https://codeforces.com/problemset/problem/734/B)
