@@ -1,6 +1,6 @@
 # PS
 
-## [Book Of Evil](https://github.com/hyunmindev/PS_Book_Of_Evil)
+## [Book Of Evil](https://github.com/hyunmindev/PS_Book-Of-Evil)
 Source : [Codeforces](https://codeforces.com/problemset/problem/337/d)
 
 Tags : DFS, tree DP
