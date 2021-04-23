@@ -1,9 +1,14 @@
 # PS
 
+## [Book Of Evil](https://github.com/hyunmindev/PS_Book_Of_Evil)
+Source : [Codeforces](https://codeforces.com/problemset/problem/337/d)
+
+Tags : DFS, tree DP
+
 ## [Choosing Capital For Treeland](https://github.com/hyunmindev/PS_Choosing-Capital-For-Treeland)
 Source : [Codeforces](https://codeforces.com/problemset/problem/219/d)
 
-Tags : DFS, graph
+Tags : DFS, tree DP
 
 ## [Approximating A Constant Range](https://github.com/hyunmindev/PS_Anton-And-Digits)
 Source : [Codeforces](https://codeforces.com/problemset/problem/602/B)
