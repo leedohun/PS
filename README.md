@@ -1,5 +1,16 @@
 # PS
 
+## [Maximizing Formula](https://github.com/hyunmindev/PS_Maximizing-Formula)
+Source : [Programers](https://programmers.co.kr/learn/courses/30/lessons/67257)
+
+Tags : String, Implementation
+
+## [Press Keypad](https://github.com/hyunmindev/PS_Press_Keypad)
+Source : [Programers](https://programmers.co.kr/learn/courses/30/lessons/67256)
+
+Tags : String, Implementation
+
+
 ## [Book Of Evil](https://github.com/hyunmindev/PS_Book-Of-Evil)
 Source : [Codeforces](https://codeforces.com/problemset/problem/337/d)
 
