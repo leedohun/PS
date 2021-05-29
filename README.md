@@ -1,29 +1,32 @@
 # PS
 
+## [Ice Skating](https://github.com/hyunmindev/PS_Ice_Skating/blob/main/main.cpp)
+
+
 ## [Same Difference](https://github.com/hyunmindev/PS_Same-Differences)
 Source : [Codeforces](https://codeforces.com/problemset/problem/1520/D)
 
-Tags : , Implementation
+Tags : Implementation, Hashing
 
 ## [Make It One2](https://github.com/hyunmindev/PS_Make_It_One2)
 Source : [BOJ](https://www.acmicpc.net/problem/12852)
 
-Tags : , Implementation
+Tags : DP
 
 ## [Get Interval4](https://github.com/hyunmindev/PS_Get_Interval4)
 Source : [BOJ](https://www.acmicpc.net/problem/11659)
 
-Tags : , Implementation
+Tags : DP
 
 ## [Stealing](https://github.com/hyunmindev/PS_Stealing)
 Source : [Programers](https://programmers.co.kr/learn/courses/30/lessons/42897)
 
-Tags : , Implementation
+Tags : DP
 
 ## [Make It One](https://github.com/hyunmindev/PS_Make_It_One)
 Source : [BOJ](https://www.acmicpc.net/problem/1463)
 
-Tags : , Implementation
+Tags : DP
 
 ## [Maximizing Formula](https://github.com/hyunmindev/PS_Maximizing-Formula)
 Source : [Programers](https://programmers.co.kr/learn/courses/30/lessons/67257)
