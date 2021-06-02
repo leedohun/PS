@@ -2,6 +2,9 @@
 
 ## [Ice Skating](https://github.com/hyunmindev/PS_Ice_Skating/blob/main/main.cpp)
 
+Source :
+
+Tags :
 
 ## [Same Difference](https://github.com/hyunmindev/PS_Same-Differences)
 Source : [Codeforces](https://codeforces.com/problemset/problem/1520/D)
