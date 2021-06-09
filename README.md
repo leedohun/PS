@@ -4,7 +4,7 @@
 
 Source :
 
-Tags :
+Tags : DFS
 
 ## [Same Difference](https://github.com/hyunmindev/PS_Same-Differences)
 Source : [Codeforces](https://codeforces.com/problemset/problem/1520/D)
